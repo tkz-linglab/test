@@ -1,2 +1,2 @@
 # test
-https://colab.research.google.com/github/aninbun/test/blob/main/sample.ipynb
+https://colab.research.google.com/github/tkz-linglab/test/blob/main/sample.ipynb
