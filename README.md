@@ -7,3 +7,5 @@ https://colab.research.google.com/github/tkz-linglab/test/blob/main/test2/02_Pai
 https://colab.research.google.com/github/tkz-linglab/test/blob/main/test2/make_library.ipynb
 
 https://colab.research.google.com/github/tkz-linglab/test/blob/v1.0.0/main/test2/tutorial.ipynb
+
+https://colab.research.google.com/drive/1QOSeA1pREtLqg-qfYk7I-9tdQ1BoAlQH?usp=sharing
